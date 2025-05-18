@@ -1,3 +1,20 @@
+The project title: ALX Listing App
+
+This is an airbnb clone app, design to function just like air bnb
+
+Structure and Components
+
+components/common/Card.tsx: Reusable property display component.
+
+components/common/Button.tsx: Button component for actions like "Book Now."
+
+interfaces/index.ts: Define CardProps and ButtonProps types.
+
+constants/index.ts: Store reusable constants, API URLs, etc.
+
+public/assets/ store all the images and SVGs for easy access
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
 ## Getting Started
